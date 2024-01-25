@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458366183950",
+    "project_id": "demoappui-45e41",
+    "storage_bucket": "demoappui-45e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458366183950:android:8423153fdc724835332a5f",
+        "android_client_info": {
+          "package_name": "com.demoappui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdiIgTl-Az-PDh1CvCtxV1kIcE8Bf6Sd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
